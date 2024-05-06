@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870532551796",
+    "project_id": "ar-navigation-332a4",
+    "storage_bucket": "ar-navigation-332a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870532551796:android:46b34f3ff4da5bded2ad21",
+        "android_client_info": {
+          "package_name": "com.arnavigation.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3kbSTp8MEFwKqrJPce48IzP_bTAG3Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
